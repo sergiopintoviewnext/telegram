@@ -5,7 +5,7 @@ Crear un grupo y meter al bot creado previamente en este grupo.
 El id de este grupo está en la url:
   Ejemplo:
 
-  https://web.telegram.org/a/#-1234567890
+    https://web.telegram.org/a/#-1234567890
 
 
 El id sería -1234567890
